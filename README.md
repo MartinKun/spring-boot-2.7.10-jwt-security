@@ -20,7 +20,6 @@
 Requerimientos: Primero necesitarás instalar lo siguiente:
 
 - JDK 11+
-- Maven 3+
 - MySQL workbench
 
 <p>Además, debes configurar las siguientes variables de entorno en tu sistema o en el archivo <code>application.yml</code>:</p>
